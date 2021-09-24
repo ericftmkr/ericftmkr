@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericftmkr
-- 👀 I’m interested in 5G, cloud computing, edge computing, AI/ML, and IoT use cases
+- 👀 I’m interested in 5G, cloud computing, intelligent edge, AI/ML, and IoT use cases
 - 🌱 I’m currently learning AWS SA certification and CXPP
 - 💞️ I’m looking to collaborate on AI-driven smart app for endurance sport
 - 📫 How to reach me: eric@ftmkr.com
